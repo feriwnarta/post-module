@@ -1,7 +1,7 @@
 {
     "name": "feriwnarta/post",
     "description": "",
-    "type": "laravel-modul",
+    "type": "laravel-module",
     "authors": [
         {
             "name": "Nicolas Widart",
