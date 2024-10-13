@@ -34,6 +34,7 @@ class PostServiceProvider extends ServiceProvider
     {
         $this->app->register(EventServiceProvider::class);
         $this->app->register(RouteServiceProvider::class);
+        $this->app->register(MenuProvider::class);
     }
 
     /**
